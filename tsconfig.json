@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ES6",
+    "skipDefaultLibCheck": true,
+    "esModuleInterop": true,
+    "target": "ES2022",
+    "moduleResolution": "Node",
+    "typeRoots": ["node_modules/@types"],
+    "isolatedModules": true,
+  },
+  "types": ["@types/jest"],
+  "exclude": ["node_modules"]
+}
